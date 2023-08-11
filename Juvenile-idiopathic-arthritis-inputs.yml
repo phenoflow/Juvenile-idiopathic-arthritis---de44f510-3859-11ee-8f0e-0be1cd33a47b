@@ -1,0 +1,18 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/juvenile-idiopathic-arthritis-jia---primary.py
+inputModule3:
+  class: File
+  path: python/rheumatoid-juvenile-idiopathic-arthritis-jia---primary.py
+inputModule4:
+  class: File
+  path: python/pauciarticular-juvenile-idiopathic-arthritis-jia---primary.py
+inputModule5:
+  class: File
+  path: python/other-juvenile-idiopathic-arthritis-jia---primary.py
+inputModule6:
+  class: File
+  path: python/output-cases.py
